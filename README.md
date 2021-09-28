@@ -1,6 +1,6 @@
-# Projeto Ampère
+# Projeto Ampere
 
-Repositório para salvar o conteúdo didático utilizado durante a primeira versão do [Projeto Ampère](https://www.youtube.com/channel/UCCIw2l3rNCepuZsugA4BC7w).
+Repositório para salvar o conteúdo didático utilizado durante a primeira versão do [Projeto Ampere](https://www.youtube.com/channel/UCCIw2l3rNCepuZsugA4BC7w).
 
 Este é um projeto com intuito educacional realizado pela Secretaria Acadêmica da Engenharia Elétrica EESC-USP. Neste repositório estão armazenados conteúdos de:
 
